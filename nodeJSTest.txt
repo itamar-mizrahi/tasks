@@ -1,0 +1,113 @@
+NodeJS Quiz
+* חובה
+כתובת אימייל *
+theitamarmizrahi@gmail.com
+Node.js runs on __________ *
+Client
+Server
+Both, server and client
+None of the above
+With Node.js... *
+The Javascript language becomes asynchronus and multi-threaded: 2 lines of code can run together in paralell
+The Javascript language is expanded with new modules like: http, net, events, buffer and more...
+The Javascript language becomes strongly typed
+The Javascript language does not change
+What is the default scope in Node.js application? *
+Global
+Local
+Global function
+Local to object
+Simple or complex functionality organized in a single or multiple Javascript files which can be reused throughout your Node.js application is called ________. *
+Module
+Library
+Package
+Function
+Which of the following class is used to create and consume custom events in Node.js? *
+EventEmitter
+Events
+NodeEvent
+None of the above
+When creating a server using node_cluster... *
+We can assign different ports to different Node.js processes all running the same code
+We can utilize all the CPU cores of the system
+We use streams and pipes to pass data around between the different processes
+None of the above
+After starting a Node.js application with this command: PORT=1234 app.js, how can we access the port number in code? *
+Invalid command. at runtime we must provide values with an external config file, like JSON, XML, YML or ENV
+node.PORT
+node.env.PORT
+process.PORT
+process.env.PORT
+The Node.js event loop is... *
+Single-threaded
+Multi-threaded
+Multi-threaded, single process
+Multi-threaded, multi-process
+How many listenners can be attached to an event in Node.js? *
+1
+10
+100
+Unlimited
+dog.on('bark', () => console.log('Woof!')); Which code will result in a console.log()? *
+dog.send('bark')
+dog.wirte('bark')
+dog.once('bark')
+dog.emit('bark')
+Which core node module is realted to multi-threading in Node.js? *
+worker_threads
+cluster
+child_process
+All of the above
+Which of the following represents a Node.js stream we can read-from and write-to? *
+Writeable Stream
+Pipe
+Buffer
+Duplex
+Regarding the use of async-await, when we use 'await' in a line of code... *
+We stop the Node.js event loop from processing any other lines of code until the Promise has been revoled or rejected
+The Node.js event loop can continue processing other tasks
+We must pass a callback function to the async function we are awaiting. the callback function will be invoked when the Promise is resolved or rejected
+We can expect the next line of code in the function to run. once the Promise has been resolved, a callback function will be triggered
+What would be a good idea to avoid 'callback hell' with Node.js? *
+Using Promises
+Using try-catch blocks for all callback functions
+Adopting a synchronous programming paradigm, and avoid callbacks whenever possible
+Use reject() to print errors and continue executing the next line of code
+What would be printed running the code below? *
+תמונה ללא כיתוב
+Hello, my name is Maor undefined
+Hello, my name is John undefined
+nothing. the code will throw an error in compilation or runtime
+[Function: greet]
+What would be printed running the code below? *
+תמונה ללא כיתוב
+Hello, my name is Maor
+Hello, my name is John
+Hello world!
+nothing. the code will throw an error in compilation or runtime
+The Node.js modules can be exposed using _________. *
+module
+module.expose
+module.exports
+All of the above
+NPM is a... *
+Online library of code packages for Node.js
+CLI command to run and debug Node.js applications
+Node.js module
+All of the above
+Which of the following is not a core module of Node.js? *
+jwt
+crypto
+util
+net
+How can we import a module in Node.js? *
+Using include() function
+Using require() function
+Using module.import
+Using app.use() function
+Submission ID (skip this field) *
+⚠️ DO NOT EDIT this field or your time will not be recorded.
+HGj4CjWceIdvxJhV
+אין לשלוח סיסמאות באמצעות Google Forms.
+הטופס הזה נוצר בתוך Compie. דיווח על שימוש לרעה
+Google Forms
